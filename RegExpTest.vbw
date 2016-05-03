@@ -1,0 +1,13 @@
+MainForm = 44, 44, 933, 369, , 22, 22, 915, 373, C
+modCRLF = 176, 176, 1061, 579, 
+ConvertHTML = 0, 0, 0, 0, C
+frmPop = 0, 0, 0, 0, C, 66, 66, 955, 391, C
+clsStringBuilder = 88, 88, 1059, 450, 
+clsEncodeURI = 272, 162, 676, 753, 
+ModMain = 66, 66, 941, 467, 
+clsXMLHTTPGetHtml = 66, 66, 880, 441, 
+frmURLList = 154, 154, 1101, 559, , 88, 88, 977, 413, C
+frmURLRange = 132, 132, 1120, 500, , 110, 110, 999, 435, C
+frmURL = 110, 110, 981, 485, , 132, 132, 1021, 457, C
+frmHistory = 66, 66, 937, 441, C, 154, 154, 1043, 479, C
+clsWinHTTPGetHtml = 22, 22, 603, 372, Z

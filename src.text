@@ -1,0 +1,25 @@
+<script type="text/javascript">
+window.mapDivId = 'map0Div';
+window.map0Div = {
+lat: 35.06936,
+lng: -108.84937,
+zoom: 12,
+locId: 47265,
+geoId: 47265,
+isAttraction: false,
+isEatery: false,
+isLodging: false,
+isNeighborhood: false,
+isForcingOldZoomPinLogic: false,
+title: "Zuni ",
+homeIcon: !false,
+url: "/Tourism-g47265-Zuni_New_Mexico-Vacations.html",
+minPins: [
+['hotel',       30],
+['restaurant',  20],
+['attraction',  20],
+['vacation_rental', 20]
+],
+homeIconOps: {lat: 35.06936, lng: -108.84937},
+units: 'km',
+geoMap: true,
