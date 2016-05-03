@@ -40,7 +40,7 @@ Public Function StartGetHtml() As String
     
 104     iRetry = 0
 
-        Dim oReq As New MSXML2.XMLHTTP
+        Dim oReq As New MSXML2.XMLHTTP60
     
 Retry:
 
@@ -190,7 +190,7 @@ Public Sub ClearAllCookies()
 
 End Sub
 
-Private Sub SetCookies(ByRef obj As MSXML2.XMLHTTP)
+Private Sub SetCookies(ByRef obj As MSXML2.XMLHTTP60)
 
 100     If dicCookies.Count > 0 Then
         
@@ -295,7 +295,7 @@ Public Function SetRequestHeader(ByRef strName As String, ByRef strVal As String
     End If
 
 End Function
-Private Sub SetRequestHeaders(ByRef obj As MSXML2.XMLHTTP)
+Private Sub SetRequestHeaders(ByRef obj As MSXML2.XMLHTTP60)
 
     If dicRequestHeader.Count > 0 Then
         
